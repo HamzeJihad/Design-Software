@@ -1,5 +1,11 @@
 # Sistema para contato de clientes com uma rede de concessionária 
 
+# Integrantes do grupo:
+  - Gabriel Pires Campos Rezende
+  - Giancarlo Moraes De Sousa
+  - Nathan Luis Campos Coelho
+  - Hamze Jihad ABD EL BAKY
+  - Guilherme Fernandes Cruz
 O sistema deverá ter cadastros de automóveis, contendo informações que sejam necessárias ao cliente, o auxiliando no processo de decisão e escolha de um automóvel.
 Tais informações são:
   - Modelo
