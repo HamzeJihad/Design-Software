@@ -6,6 +6,7 @@
   - Nathan Luis Campos Coelho
   - Hamze Jihad ABD EL BAKY
   - Guilherme Fernandes Cruz
+  - Marcos Vinícius de Moraes
 
 
 #Sistema
