@@ -22,6 +22,7 @@ Tais informações são:
   - Disponibilidade
   - Preço
   - Fotos do veículo, uma para cada cor disponível
+  - Variações do mesmo modelo
 
 Os cadastros de veículos devem ser feitos por parte de usuários administradores, que devem pertencer à uma determinada concessionária. O software terá diversas lojas, porém todas pertencentes à mesma fabricante. 
 
