@@ -24,9 +24,9 @@ Nessa etapa são definicas coisas como estrutura de repositório que será utili
 - **Abordagem de design de software**<br>
 Duas abordagens majoritárias são mencionadas no artigo fonte para esta lista de verificação: _top-down_ e _bottom-up_.
 
-Na abordagem _top-down_, o design começa a ser feito da perspectiva do usuário e o trabalho avança de forma descendente ao longo dos níveis do sistema, até chegar à última camada, normalmente a camada de dados do sistema.
+   Na abordagem _top-down_, o design começa a ser feito da perspectiva do usuário e o trabalho avança de forma descendente ao longo dos níveis do sistema, até chegar à última camada, normalmente a camada de dados do sistema.
 
-Na abordagem _bottom-up_, o design começa a partir dos dados requeridos e avança de forma ascendente, até chegar ao nível mais alto, sendo esse o de usuário.
+   Na abordagem _bottom-up_, o design começa a partir dos dados requeridos e avança de forma ascendente, até chegar ao nível mais alto, sendo esse o de usuário.
 
 - **Data contract**<br>
 Define o modelo de dados, formatação, troca de dados entre serviços e armazenamento de dados que serão utilizados no sistema projetado.
@@ -34,7 +34,7 @@ Define o modelo de dados, formatação, troca de dados entre serviços e armazen
 - **Levantamento de sistemas que irão interagir com o backend**<br>
 Sondagem de serviços que irão se comunicar com o backend do sistema uma vez que o mesmo esteja operante.
 
-Caso a necessidade tais serviços e comunicações se mostre verdadeira, é preciso criar um acordo de integração (integration contract) entre o backend do sistema e os serviços que irão interagir com ele.
+   Caso a necessidade tais serviços e comunicações se mostre verdadeira, é preciso criar um acordo de integração (integration contract) entre o backend do sistema e os serviços que irão interagir com ele.
 
 - **User contract**<br>
 Idealização de como o usuário irá interagir com o sistema.
