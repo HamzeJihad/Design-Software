@@ -43,12 +43,18 @@ Idealização de como o usuário irá interagir com o sistema.
 Criação de um protótipo visualmente fiel ao user contract previamente estabelecido.
 
 - **UI and backend integration contract**<br>
+Definição da estrutura de comunicação entre a UI e o backend do sistema.
 
+- **Diagramas de negócio**<br>
+Confecção de diagramas necessários para melhor contextualização do sistema.
 
-- **Diagramas de negócio**
-- **Diagramas de topologia do sistema**
+   Essa etapa auxiliará mais tarde nas definições estruturais do sistema, como ações do usuário, transições de estado de objetos, fluxo lógido, etc.
 
+- **Esquema de dados**<br>
+Definição do esquema de banco de dados que o sistema adotará.
 
+- **Diagramas de topologia do sistema**<br>
+Diagramas em nível de sistema, descrevendo como diferentes aspéctos do backend se conectam e se comunicam.
 
 ## Checklist de verificação
 - [ ] **Visão do sistema**
@@ -61,4 +67,5 @@ Criação de um protótipo visualmente fiel ao user contract previamente estabel
 - [ ] **Mock-up da UI**
 - [ ] **UI and backend integration contract**
 - [ ] **Diagramas de negócio**
+- [ ] **Esquema de dados**
 - [ ] **Diagramas de topologia do sistema**
