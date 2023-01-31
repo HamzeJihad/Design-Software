@@ -57,8 +57,8 @@ Definição do esquema de banco de dados que o sistema adotará.
 Diagramas em nível de sistema, descrevendo como diferentes aspéctos do backend se conectam e se comunicam.
 
 ## Checklist de verificação
-- [X] Visão do sistema
-A visão do sistema projetado está bem esplicitado no documento [README.md](https://github.com/HamzeJihad/Design-Software/blob/main/README.md), disponível no repositório.
+- [x] Visão do sistema
+A visão do sistema projetado está bem explicitado no documento [README.md](https://github.com/HamzeJihad/Design-Software/blob/main/README.md), disponível no repositório.
 
 - [x] **Limites do sistema**
 O diagrama de contexto, encontrado no documento [diagrama-contexto.png](https://github.com/HamzeJihad/Design-Software/blob/main/diagrama-contexto.png), define de maneira clara os limites do sistema sendo projetado.
@@ -70,12 +70,20 @@ Apesar de, no início do projeto e ao longo dos encontros semanais sempre ocorre
 A abordagem de design utilizada pelo time é a bottom-up, começando o planejamento pela perspectiva dos dados do sistema e só ai final projetando a UI.
 
 - [ ] **Data contract**
-
+Não foi gerada uma documentação explicitando o data contract do projeto.
 
 - [ ] **Levantamento de sistemas que irão interagir com o backend**
-- [ ] **User contract**
+Não foi feito levantamento de sistemas que possivelmente irão interagir com o backend do projeto.
+
+- [x] **User contract**
+O user contract está representado nos [diagrama-contexto.png](https://github.com/HamzeJihad/Design-Software/blob/main/diagrama-contexto.png) e [diagrama_container.png](https://github.com/HamzeJihad/Design-Software/blob/main/diagrama_container.png) e está mais bem explicitado no [diagrama_frontend.png](https://github.com/HamzeJihad/Design-Software/blob/main/diagrama_frontend.png). 
+
 - [ ] **Mock-up da UI**
-- [ ] **UI and backend integration contract**
+Ainda não foi ferado um mock-up ou qualquer tipo de protótipo da UI do sistema.
+
+- [x] **UI and backend integration contract**
+O integration contract está bem explicitado nos [diagrama-contexto.png](https://github.com/HamzeJihad/Design-Software/blob/main/diagrama-contexto.png), [diagrama_container.png](https://github.com/HamzeJihad/Design-Software/blob/main/diagrama_container.png) e [back-end-diagrama.png](https://github.com/HamzeJihad/Design-Software/blob/main/back-end-diagrama.png).
+
 - [ ] **Diagramas de negócio**
 - [ ] **Esquema de dados**
 - [ ] **Diagramas de topologia do sistema**
