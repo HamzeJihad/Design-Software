@@ -58,16 +58,20 @@ Diagramas em nível de sistema, descrevendo como diferentes aspéctos do backend
 
 ## Checklist de verificação
 - [X] Visão do sistema
-A visão do sistema projetado está bem esplicitado no documento README.md, disponível no repositório.
+A visão do sistema projetado está bem esplicitado no documento [README.md](https://github.com/HamzeJihad/Design-Software/blob/main/README.md), disponível no repositório.
 
 - [x] **Limites do sistema**
-O diagrama de contexto, encontrado no documento diagrama-contexto.png, define de maneira clara os limites do sistema sendo projetado.
+O diagrama de contexto, encontrado no documento [diagrama-contexto.png](https://github.com/HamzeJihad/Design-Software/blob/main/diagrama-contexto.png), define de maneira clara os limites do sistema sendo projetado.
 
 - [ ] **Team contract**
-Apesar no início do projeto
+Apesar de, no início do projeto e ao longo dos encontros semanais sempre ocorrer acordos verbais sobre a separação de funções da equipe, nunca foi gerado nenhum tipo de documentação que sirva como registro.
 
-- [ ] **Abordagem de design de software**
+- [x] **Abordagem de design de software**
+A abordagem de design utilizada pelo time é a bottom-up, começando o planejamento pela perspectiva dos dados do sistema e só ai final projetando a UI.
+
 - [ ] **Data contract**
+
+
 - [ ] **Levantamento de sistemas que irão interagir com o backend**
 - [ ] **User contract**
 - [ ] **Mock-up da UI**
