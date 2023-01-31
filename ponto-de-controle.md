@@ -67,7 +67,7 @@ O diagrama de contexto, encontrado no documento [diagrama-contexto.png](https://
 Apesar de, no início do projeto e ao longo dos encontros semanais sempre ocorrer acordos verbais sobre a separação de funções da equipe, nunca foi gerado nenhum tipo de documentação que sirva como registro.
 
 - [x] **Abordagem de design de software**<br>
-A abordagem de design utilizada pelo time é a bottom-up, começando o planejamento pela perspectiva dos dados do sistema e só ai final projetando a UI.
+A abordagem de design utilizada pelo time é a _bottom-up_, começando o planejamento pela perspectiva dos dados do sistema e só ai final projetando a UI.
 
 - [ ] **Data contract**<br>
 Não foi gerada uma documentação explicitando o data contract do projeto.
