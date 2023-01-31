@@ -57,7 +57,7 @@ Definição do esquema de banco de dados que o sistema adotará.
 Diagramas em nível de sistema, descrevendo como diferentes aspéctos do backend se conectam e se comunicam.
 
 ## Checklist de verificação
-- [x] **Visão do sistema**
+- [X] Visão do sistema
 A visão do sistema projetado está bem esplicitado no documento README.md, disponível no repositório.
 
 - [x] **Limites do sistema**
