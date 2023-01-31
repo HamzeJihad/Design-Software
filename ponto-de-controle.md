@@ -90,5 +90,5 @@ O Diagrama de negócios do sistema é bem representado no artefato [diagrama-cod
 - [ ] **Esquema de dados**<br>
 Não foi gerado documentação sobre o esquema de dados do sistema.
 
-- [ ] **Diagramas de topologia do sistema**<br>
+- [x] **Diagramas de topologia do sistema**<br>
 O Diagrama de topologia do sistema é bem representado no artefato [back-end-diagrama.png](https://github.com/HamzeJihad/Design-Software/blob/main/back-end-diagrama.png).
